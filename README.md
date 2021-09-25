@@ -2,4 +2,4 @@
 
 ## Editing Files
 
-its a markdown file in this repository 
+lts a markdown file in this repository 
